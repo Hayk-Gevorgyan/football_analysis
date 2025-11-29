@@ -1,0 +1,3 @@
+weights/
+*.pt
+.ipynb_checkpoints
